@@ -4,6 +4,11 @@
 ![PyPI](https://img.shields.io/pypi/v/happytransformer)
 [![](https://github.com/EricFillion/happy-transformer/workflows/build/badge.svg)](https://github.com/EricFillion/happy-transformer/actions)
 
+# To Install this repo's version:
+```
+pip install git+https://github.com/DarwinAnim8or/happy-transformer
+```
+
 # Happy Transformer 
 **Documentation and news: [happytransformer.com](http://happytransformer.com)**
 
