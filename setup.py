@@ -20,10 +20,10 @@ setup(
     keywords = ['bert', 'roberta', 'xlnet', "transformer", "happy", "HappyTransformer",  "classification",  "nlp", "nlu", "natural", "language", "processing", "understanding"],
 
     install_requires=[
-            'torch>=1.0',
-            'tqdm>=4.43',
-            'transformers>=4.4.0',
-            'datasets>=1.6.0',
+            'torch',
+            'tqdm',
+            'transformers',
+            'datasets',
             'dataclasses; python_version < "3.7"',
             'sentencepiece',
             'protobuf'
